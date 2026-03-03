@@ -1,0 +1,2 @@
+# autopsy--curiosity--project-mnemosyne-s-bargain
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'CURIOSITY: Project Mnemosyne's Bargain' FAILED.MASTER REFLECTION: QUALITY_SCORE: 2  XP_AWARDED: 100  NEW_TOPIC: None  SKILLS: [system_design, monetization, resource_efficiency]  METRICS:  Coordination: 2 - Task was attempted but failed to return output, indicaORIGINAL ERROR LOGS:DeepSeek/AI model did not r
